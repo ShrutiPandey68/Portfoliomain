@@ -1,0 +1,19 @@
+@keyframes move {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-10px); }
+  }
+  
+  .running-text {
+    position: fixed;
+    bottom: 20px; /* Adjust this to position the text vertically */
+    right: 20px; /* Adjust this to position the text horizontally */
+    font-size: 18px; /* Adjust font size */
+    color: white; /* Adjust text color */
+    animation: run 5s linear infinite; /* Infinite animation */
+  }
+  
+  @keyframes run {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(100vw); /* Move across the entire width */}
+  }
+  

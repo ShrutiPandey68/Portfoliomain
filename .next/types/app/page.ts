@@ -1,4 +1,4 @@
-// File: D:\Reactprjoect\otplogin through firebasr\UserManagementOne\Practiceassigment\react-portfolio\Next.js-Creative-Portfolio-Website-main\PortfolioMain\src\app\page.js
+// File: D:\Reactprjoect\otplogin through firebasr\UserManagementOne\LastOne\Portfoliomain\src\app\page.js
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
